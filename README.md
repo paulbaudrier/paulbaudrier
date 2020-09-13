@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+DevOps Consultant 😄
+
+Stack : Terraform Ansible Kubernetes Jenkins Docker AWS 🤔 
+
 <!--
 **paulbaudrier/paulbaudrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
