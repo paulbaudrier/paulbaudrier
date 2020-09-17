@@ -6,9 +6,8 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 
 ## I like
 
-- [Conference](https://twitter.com/antonbabenko/status/1208503560733896706) to share knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
-- Figure out best&worst practices (by asking "Why?"), and publishing them as [Terraform best practices](https://www.terraform-best-practices.com) and [Terragrunt Reference Architecture](https://github.com/antonbabenko/terragrunt-reference-architecture)
-- Open-source, Terraform and AWS
+- [Conference](https://twitter.com/antonbabenko/status/1208503560733896706) to learn knowledge on conferences, meetups, podcasts, workshops, mentorship, etc.
+- Adept of Figure out best&worst practices (by asking "Why?") in Terraform, forked ressources about it : 
 
 
 ## Some of my projects
