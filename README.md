@@ -11,7 +11,7 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 - Open-source, Terraform and AWS
 
 
-## Some of my open-source projects
+## Some of my projects
 
 - [serverless.tf](https://serverless.tf) - Doing serverless with Terraform.
 - [Terraform cost estimation](https://github.com/antonbabenko/terraform-cost-estimation) - anonymized, secure, free.
