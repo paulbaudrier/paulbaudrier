@@ -17,11 +17,6 @@ J’ai décider de me spécialisé au fils de mes expériences sur les probléma
 
 Cela fait maintenant 3 ans que je suis consultant freelance DevOps - Architect Solution.
 
-Mon expertise : 
-
-j’interviens sur les Infrastructure de mes clients.
-Le but ? Faire scaler à moindre coût une application ou un service (MicroServices)
-
 
 ### Connect with me
 
