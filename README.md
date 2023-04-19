@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
-
+<br/>
 ![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
-  
+</div>
 
 ### <div align="center">I am a DevOps Consultant 👨‍💻, i help company build solutions using AWS and specializing in infrastructure as code and reusable infrastructure components.
 
