@@ -18,6 +18,7 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 
 - ⚡ Fun fact: I use tabs over spaces  
 
+![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
 
 <br/>  
 
@@ -110,8 +111,7 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
                 />
             </a></div>  
 
-<br/>  
- ![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
+<br/>
 
 <br />
 
