@@ -4,7 +4,8 @@
 <br/>  
 ## 👀 Glad to see you here!
 <br/>  
-### <div align="center">I am a AWS Solutions Architect Consultant & Terraform fanatic  
+
+I am a AWS Solutions Architect Consultant & Terraform fanatic  
 
 Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Grafana, Prometheus, DataDog, Cloudwatch, ..) 🚀</div>  
   
