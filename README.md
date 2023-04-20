@@ -50,9 +50,10 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=Souhib&theme=radical&hide_border=false&include_all_commits=true&count_private=true)</br></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Souhib&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </br></br>
-[![](https://visitcount.itsvg.in/api?id=Souhib&icon=0&color=10)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulbaudrier&show_icons=true&locale=en&layout=compact" alt="paulbaudrier" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulbaudrier&show_icons=true&locale=en" alt="paulbaudrier" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulbaudrier&" alt="paulbaudrier" /></p>
+
 
 <br/>  
 
