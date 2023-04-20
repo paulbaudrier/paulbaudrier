@@ -46,7 +46,7 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 
 
 ## Github Stats  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulbaudrier&show_icons=true&locale=en" alt="paulbaudrier" /></p>
+<div align="center"><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulbaudrier&show_icons=true&locale=en" alt="paulbaudrier" /></p></div>
 
 
 <br/>  
