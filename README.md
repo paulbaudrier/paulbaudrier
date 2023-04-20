@@ -91,20 +91,9 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+<br />
 <div align="center">
             <a href="https://www.buymeacoffee.com/paulbaudrier" target="_blank" style="display: inline-block;">
                 <img
@@ -112,11 +101,3 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
                     align="center"
                 />
             </a></div>  
-
-<br/>
-
-<br />
-
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
