@@ -3,7 +3,6 @@
 </div>
 <br/>  
 ## 👀 Glad to see you here!
-<br/>  
 
 I am a AWS Solutions Architect Consultant & Terraform fanatic  
 
