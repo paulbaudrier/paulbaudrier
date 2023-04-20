@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
-<br/>  
-## 👀 Glad to see you here!
+<br/>
+# My Skill Set 
 
 I am a AWS Solutions Architect Consultant & Terraform fanatic  
 
