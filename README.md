@@ -2,21 +2,21 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 
-### <div align="center">I am a DevOps Consultant 👨‍💻, i help company build solutions using AWS and specializing in infrastructure as code and reusable infrastructure components.
+### <div align="center">I am a AWS Solutions Architect Consultant & Terraform fanatic  
 
 Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Grafana, Prometheus, DataDog, Cloudwatch, ..) 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I help company build solutions using AWS and specializing in infrastructure as code and reusable infrastructure components.
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently passing Kubernetes CKA Certification  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to AWS and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'm a finance enthusiast
 
 ![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
 
