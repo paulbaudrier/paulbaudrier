@@ -40,9 +40,6 @@ Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Gr
 <a href="https://linkedin.com/in/paul-baudrier" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/paulbaudrier" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
