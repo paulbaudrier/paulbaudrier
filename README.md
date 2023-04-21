@@ -1,11 +1,11 @@
-## Hey 👋, I'm Paul BAUDRIER!  
+## Hey 👋, I'm Paul BAUDRIER !  
 ![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>
 <br/>
 
-## 👀 Glad to see you here!  
+## 👀 Glad to see you here !  
 
 I am a AWS Solutions Architect Consultant & Terraform fanatic  
 
