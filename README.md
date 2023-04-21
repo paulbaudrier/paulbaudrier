@@ -12,7 +12,7 @@ I am a AWS Solutions Architect Consultant & Terraform fanatic
 Stack : Terraform, AWS, K8S, CI/CD (Jenkins, JenkinsX, GitlabCI), Monitoring (Grafana, Prometheus, DataDog, Cloudwatch, ..) 🚀</div>  
   
 
-- 🔭 I help company build solutions using AWS and specializing in infrastructure as code and reusable infrastructure components.
+- 🔭 I help company build solutions using AWS specializing in infrastructure as code and reusable infrastructure components.
   
 
 - 🌱 I’m currently passing Kubernetes CKA Certification  
