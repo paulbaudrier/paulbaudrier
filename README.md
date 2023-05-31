@@ -2,13 +2,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/PAULBAUDRIER?color=%23171515&label=FOLLOW%20ME%20ON%20GITHUB&style=social)
 <div align="center">
 <img src="https://github.com/paulbaudrier/paulbaudrier/assets/23172258/815eb50a-4858-48ba-9124-7aeb64170fc1" align="center" style="width: 50%" />
-  
-  
-  ![greetings](https://github.com/paulbaudrier/paulbaudrier/assets/23172258/815eb50a-4858-48ba-9124-7aeb64170fc1)
-
-  
-  
-  
 </div>
 <br/>
 
